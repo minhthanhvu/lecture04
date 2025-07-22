@@ -1,7 +1,6 @@
 { 
   "users": [ 
     { "id": 1, "name": "Minh", "address": "25 A St, HCM City" }, 
-    { "id": 2, "name": "Linh", "address": "27 B St, HCM City" }, 
-    { "id": 3, "name": "Nam", "address": "29 C St, HCM City" } 
+    { "id": 2, "name": "Linh", "address": "27 B St, HCM City" } 
   ] 
 }
